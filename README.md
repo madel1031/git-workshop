@@ -21,7 +21,7 @@
 1. Commit the new file, e.g. `git commit -m "Add hello world program"`
 1. Switch to the master branch `git checkout master`
 1. Merge the `add_cool_program` branch into master `git merge add_cool_program`
-1. Push your changes `git push origin master`
+1. Push your changes to GitHub `git push origin master`
 1. Delete your merged branch `git branch -d add_cool_program`
 1. On your git-workshop fork GitHub page, github.com/USERNAME/git-workshop, select New pull request
 1. Select the green button that says Create pull request 
