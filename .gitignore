@@ -1,0 +1,2 @@
+# Tell Git to ignore Java class files so they're never committed.
+*.class
